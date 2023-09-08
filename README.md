@@ -65,6 +65,7 @@ Then run the following commands to run your app:
 ![dellify_order](https://github.com/Adasv9423/dellify/assets/76847225/ea8ad27a-1ce6-45a8-9875-6e5f81df7d93)
 ![user_cart_detsis](https://github.com/Adasv9423/dellify/assets/76847225/a15188b2-4471-47ed-a3c4-b40e8c87d23f)
 ![showing_orders](https://github.com/Adasv9423/dellify/assets/76847225/3ddf5e2d-c9eb-4fae-9df3-4061ed883baa)
+
 ## APP PREVIEW FOR ADMIN-
 
 
